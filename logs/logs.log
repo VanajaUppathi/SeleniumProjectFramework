@@ -1,0 +1,168 @@
+[DEBUG] 2022-09-23 18:36:01.869 [main] LoginTest - browser launched
+[DEBUG] 2022-09-23 18:36:03.746 [main] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-23 18:36:08.037 [main] LoginTest - clicked on Login
+[DEBUG] 2022-09-23 18:36:08.148 [main] LoginTest - email address is entered
+[DEBUG] 2022-09-23 18:36:08.203 [main] LoginTest - Password is Entered
+[DEBUG] 2022-09-23 18:36:09.054 [main] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 13:54:15.737 [TestNG-tests-1] LoginTest - browser launched
+[DEBUG] 2022-09-26 13:54:17.578 [TestNG-tests-1] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 13:54:21.828 [TestNG-tests-1] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 13:54:21.911 [TestNG-tests-1] LoginTest - email address is entered
+[DEBUG] 2022-09-26 13:54:21.950 [TestNG-tests-1] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 13:54:23.258 [TestNG-tests-1] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 15:13:05.016 [main] LoginTest - browser launched
+[DEBUG] 2022-09-26 15:13:06.380 [main] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 15:13:10.484 [main] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 15:13:10.550 [main] LoginTest - email address is entered
+[DEBUG] 2022-09-26 15:13:10.597 [main] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 15:13:11.206 [main] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 15:13:30.346 [TestNG-tests-1] LoginTest - browser launched
+[DEBUG] 2022-09-26 15:13:31.827 [TestNG-tests-1] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 15:13:36.099 [TestNG-tests-1] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 15:13:36.168 [TestNG-tests-1] LoginTest - email address is entered
+[DEBUG] 2022-09-26 15:13:36.198 [TestNG-tests-1] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 15:13:37.539 [TestNG-tests-1] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 15:17:36.092 [main] LoginTest - browser launched
+[DEBUG] 2022-09-26 15:17:37.875 [main] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 15:17:41.970 [main] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 15:17:42.039 [main] LoginTest - email address is entered
+[DEBUG] 2022-09-26 15:17:42.073 [main] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 15:17:42.670 [main] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 16:27:30.094 [TestNG-tests-1] LoginTest - browser launched
+[DEBUG] 2022-09-26 16:27:31.660 [TestNG-tests-1] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 16:27:35.814 [TestNG-tests-1] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 16:27:35.865 [TestNG-tests-1] LoginTest - email address is entered
+[DEBUG] 2022-09-26 16:27:35.886 [TestNG-tests-1] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 16:27:37.242 [TestNG-tests-1] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 16:35:19.440 [TestNG-tests-1] LoginTest - browser launched
+[DEBUG] 2022-09-26 16:35:21.144 [TestNG-tests-1] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 16:35:25.360 [TestNG-tests-1] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 16:35:25.404 [TestNG-tests-1] LoginTest - email address is entered
+[DEBUG] 2022-09-26 16:35:25.424 [TestNG-tests-1] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 16:35:26.716 [TestNG-tests-1] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 16:37:28.574 [main] LoginTest - browser launched
+[DEBUG] 2022-09-26 16:37:30.248 [main] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 16:37:34.326 [main] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 16:37:34.383 [main] LoginTest - email address is entered
+[DEBUG] 2022-09-26 16:37:34.410 [main] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 16:37:35.032 [main] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 16:39:03.232 [TestNG-tests-1] LoginTest - browser launched
+[DEBUG] 2022-09-26 16:39:04.356 [TestNG-tests-1] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 16:39:08.438 [TestNG-tests-1] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 16:39:08.482 [TestNG-tests-1] LoginTest - email address is entered
+[DEBUG] 2022-09-26 16:39:08.501 [TestNG-tests-1] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 16:39:09.807 [TestNG-tests-1] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 16:40:35.119 [TestNG-tests-1] LoginTest - browser launched
+[DEBUG] 2022-09-26 16:40:36.215 [TestNG-tests-1] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 16:40:40.343 [TestNG-tests-1] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 16:40:40.387 [TestNG-tests-1] LoginTest - email address is entered
+[DEBUG] 2022-09-26 16:40:40.406 [TestNG-tests-1] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 16:40:41.701 [TestNG-tests-1] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 16:42:27.587 [main] LoginTest - browser launched
+[DEBUG] 2022-09-26 16:42:29.006 [main] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 16:42:33.053 [main] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 16:42:33.111 [main] LoginTest - email address is entered
+[DEBUG] 2022-09-26 16:42:33.147 [main] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 16:42:33.759 [main] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 16:44:22.558 [main] LoginTest - browser launched
+[DEBUG] 2022-09-26 16:44:24.174 [main] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 16:44:28.267 [main] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 16:44:28.333 [main] LoginTest - email address is entered
+[DEBUG] 2022-09-26 16:44:28.366 [main] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 16:44:28.971 [main] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 16:45:54.683 [TestNG-tests-1] LoginTest - browser launched
+[DEBUG] 2022-09-26 16:45:56.603 [TestNG-tests-1] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 16:46:00.663 [TestNG-tests-1] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 16:46:00.724 [TestNG-tests-1] LoginTest - email address is entered
+[DEBUG] 2022-09-26 16:46:00.762 [TestNG-tests-1] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 16:46:01.368 [TestNG-tests-1] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 16:48:41.741 [TestNG-tests-1] LoginTest - browser launched
+[DEBUG] 2022-09-26 16:48:43.104 [TestNG-tests-1] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 16:48:47.204 [TestNG-tests-1] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 16:48:47.276 [TestNG-tests-1] LoginTest - email address is entered
+[DEBUG] 2022-09-26 16:48:47.311 [TestNG-tests-1] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 16:48:47.934 [TestNG-tests-1] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 16:56:09.915 [TestNG-tests-1] LoginTest - browser launched
+[DEBUG] 2022-09-26 16:56:11.529 [TestNG-tests-1] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 16:56:15.864 [TestNG-tests-1] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 16:56:15.936 [TestNG-tests-1] LoginTest - email address is entered
+[DEBUG] 2022-09-26 16:56:15.987 [TestNG-tests-1] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 16:56:16.601 [TestNG-tests-1] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 16:56:58.019 [TestNG-tests-1] LoginTest - browser launched
+[DEBUG] 2022-09-26 16:56:59.639 [TestNG-tests-1] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 16:57:03.758 [TestNG-tests-1] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 16:57:03.828 [TestNG-tests-1] LoginTest - email address is entered
+[DEBUG] 2022-09-26 16:57:03.863 [TestNG-tests-1] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 16:57:04.493 [TestNG-tests-1] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 16:59:19.890 [TestNG-tests-1] LoginTest - browser launched
+[DEBUG] 2022-09-26 16:59:21.455 [TestNG-tests-1] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 16:59:25.052 [TestNG-tests-1] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 16:59:25.133 [TestNG-tests-1] LoginTest - email address is entered
+[DEBUG] 2022-09-26 16:59:25.175 [TestNG-tests-1] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 16:59:25.825 [TestNG-tests-1] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 17:02:49.964 [TestNG-tests-1] LoginTest - browser launched
+[DEBUG] 2022-09-26 17:02:51.696 [TestNG-tests-1] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 17:02:55.191 [TestNG-tests-1] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 17:02:55.291 [TestNG-tests-1] LoginTest - email address is entered
+[DEBUG] 2022-09-26 17:02:55.347 [TestNG-tests-1] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 17:02:55.992 [TestNG-tests-1] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 17:08:58.356 [TestNG-tests-1] LoginTest - browser launched
+[DEBUG] 2022-09-26 17:08:59.858 [TestNG-tests-1] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 17:09:01.046 [TestNG-tests-2] LoginTest - Clicked on computers
+[DEBUG] 2022-09-26 17:09:01.467 [TestNG-tests-2] LoginTest - Clicked on notebook
+[DEBUG] 2022-09-26 17:09:02.422 [TestNG-tests-2] LoginTest - Clicked on macbook
+[DEBUG] 2022-09-26 17:09:03.149 [TestNG-tests-2] LoginTest - item added to cart
+[DEBUG] 2022-09-26 17:09:03.914 [TestNG-tests-1] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 17:09:03.991 [TestNG-tests-1] LoginTest - email address is entered
+[DEBUG] 2022-09-26 17:09:04.044 [TestNG-tests-1] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 17:09:04.675 [TestNG-tests-1] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 17:09:57.280 [main] LoginTest - browser launched
+[DEBUG] 2022-09-26 17:09:58.938 [main] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 17:10:02.464 [main] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 17:10:02.526 [main] LoginTest - email address is entered
+[DEBUG] 2022-09-26 17:10:02.573 [main] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 17:10:03.158 [main] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 17:10:09.018 [main] LoginTest - Clicked on computers
+[DEBUG] 2022-09-26 17:10:09.501 [main] LoginTest - Clicked on notebook
+[DEBUG] 2022-09-26 17:10:10.380 [main] LoginTest - Clicked on macbook
+[DEBUG] 2022-09-26 17:10:10.623 [main] LoginTest - item added to cart
+[DEBUG] 2022-09-26 21:23:48.846 [main] LoginTest - browser launched
+[DEBUG] 2022-09-26 21:23:52.018 [main] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 21:23:57.440 [main] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 21:23:57.505 [main] LoginTest - email address is entered
+[DEBUG] 2022-09-26 21:23:57.548 [main] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 21:23:58.158 [main] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 21:24:07.509 [main] LoginTest - Clicked on computers
+[DEBUG] 2022-09-26 21:24:08.844 [main] LoginTest - Clicked on notebook
+[DEBUG] 2022-09-26 21:24:11.291 [main] LoginTest - Clicked on macbook
+[DEBUG] 2022-09-26 21:24:11.525 [main] LoginTest - item added to cart
+[DEBUG] 2022-09-26 21:39:18.556 [TestNG-tests-1] LoginTest - browser launched
+[DEBUG] 2022-09-26 21:39:21.596 [TestNG-tests-1] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 21:39:24.079 [TestNG-tests-2] LoginTest - Clicked on computers
+[DEBUG] 2022-09-26 21:39:25.390 [TestNG-tests-2] LoginTest - Clicked on notebook
+[DEBUG] 2022-09-26 21:39:26.998 [TestNG-tests-1] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 21:39:27.042 [TestNG-tests-1] LoginTest - email address is entered
+[DEBUG] 2022-09-26 21:39:27.073 [TestNG-tests-1] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 21:39:27.855 [TestNG-tests-2] LoginTest - Clicked on macbook
+[DEBUG] 2022-09-26 21:39:28.081 [TestNG-tests-2] LoginTest - item added to cart
+[DEBUG] 2022-09-26 21:39:28.447 [TestNG-tests-1] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 21:49:55.853 [TestNG-tests-1] LoginTest - browser launched
+[DEBUG] 2022-09-26 21:49:57.691 [TestNG-tests-1] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 21:49:58.754 [TestNG-tests-2] LoginTest - Clicked on computers
+[DEBUG] 2022-09-26 21:49:59.270 [TestNG-tests-2] LoginTest - Clicked on notebook
+[DEBUG] 2022-09-26 21:50:00.218 [TestNG-tests-2] LoginTest - Clicked on macbook
+[DEBUG] 2022-09-26 21:50:00.446 [TestNG-tests-2] LoginTest - item added to cart
+[DEBUG] 2022-09-26 21:50:03.112 [TestNG-tests-1] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 21:50:03.222 [TestNG-tests-1] LoginTest - email address is entered
+[DEBUG] 2022-09-26 21:50:03.268 [TestNG-tests-1] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 21:50:03.887 [TestNG-tests-1] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 21:55:32.551 [TestNG-tests-1] LoginTest - browser launched
+[DEBUG] 2022-09-26 21:55:34.085 [TestNG-tests-1] LoginTest - Navigate to application URL
+[DEBUG] 2022-09-26 21:55:36.173 [TestNG-tests-2] LoginTest - Clicked on computers
+[DEBUG] 2022-09-26 21:55:37.511 [TestNG-tests-2] LoginTest - Clicked on notebook
+[DEBUG] 2022-09-26 21:55:38.155 [TestNG-tests-1] LoginTest - clicked on Login
+[DEBUG] 2022-09-26 21:55:38.215 [TestNG-tests-1] LoginTest - email address is entered
+[DEBUG] 2022-09-26 21:55:38.241 [TestNG-tests-1] LoginTest - Password is Entered
+[DEBUG] 2022-09-26 21:55:39.353 [TestNG-tests-1] LoginTest - clicked on Signin
+[DEBUG] 2022-09-26 21:55:39.850 [TestNG-tests-2] LoginTest - Clicked on macbook
+[DEBUG] 2022-09-26 21:55:40.082 [TestNG-tests-2] LoginTest - item added to cart
